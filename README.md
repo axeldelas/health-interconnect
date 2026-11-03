@@ -99,19 +99,6 @@ Architecture diagrams are available in the `/docs` folder.
 
 ---
 
-## Skills Demonstrated
-
-- Network Architecture
-- Infrastructure Design
-- Network Security
-- High Availability
-- Network Segmentation
-- Capacity Planning
-- Technical Documentation
-- Enterprise Networking
-
----
-
 ## Documentation
 
 Detailed project deliverables and architecture diagrams are available in the `/docs` folder.
