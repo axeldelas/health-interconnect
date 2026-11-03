@@ -69,8 +69,6 @@ The proposed architecture includes:
 - High-availability firewall cluster
 - Redundant uplinks and aggregation
 
-Architecture diagrams are available in the `/docs` folder.
-
 ---
 
 ## Key Deliverables
