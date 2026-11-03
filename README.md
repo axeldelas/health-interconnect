@@ -1,6 +1,6 @@
 # Hospital Network Infrastructure Design
 
-## Overview
+## 📖 Overview
 
 Master's degree group project focused on the design of a complete network infrastructure for a multi-building hospital environment.
 
@@ -8,7 +8,7 @@ The project covered network architecture, segmentation, redundancy, wireless con
 
 ---
 
-## Objectives
+## 🎯 Objectives
 
 - Design a scalable and resilient hospital network infrastructure
 - Ensure continuous service availability through redundancy mechanisms
@@ -19,7 +19,7 @@ The project covered network architecture, segmentation, redundancy, wireless con
 
 ---
 
-## Technologies & Concepts
+## 🛠️ Technologies & Concepts
 
 ### Networking
 
@@ -54,7 +54,7 @@ The project covered network architecture, segmentation, redundancy, wireless con
 
 ---
 
-## Network Architecture
+## 🌐 Network Architecture
 
 The proposed architecture includes:
 
@@ -71,7 +71,7 @@ The proposed architecture includes:
 
 ---
 
-## Key Deliverables
+## 📦 Key Deliverables
 
 - Enterprise network architecture
 - IP addressing plan
@@ -85,7 +85,7 @@ The proposed architecture includes:
 
 ---
 
-## My Contributions
+## 👨‍💻 My Contributions
 
 - Network architecture design
 - VLAN and addressing design
@@ -97,6 +97,6 @@ The proposed architecture includes:
 
 ---
 
-## Documentation
+## 📚 Documentation
 
 Detailed project deliverables and architecture diagrams are available in the `/docs` folder.
