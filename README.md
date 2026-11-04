@@ -1,14 +1,12 @@
 # Hospital Network Infrastructure Design
 
-## 📖 Overview
+## :book: Overview
 
 Master's degree group project focused on the design of a complete network infrastructure for a multi-building hospital environment.
 
 The project covered network architecture, segmentation, redundancy, wireless connectivity, VoIP integration, security design, capacity planning, and infrastructure budgeting.
 
----
-
-## 🎯 Objectives
+## :dart: Objectives
 
 - Design a scalable and resilient hospital network infrastructure
 - Ensure continuous service availability through redundancy mechanisms
@@ -17,9 +15,7 @@ The project covered network architecture, segmentation, redundancy, wireless con
 - Provide a future-proof architecture capable of supporting organizational growth
 - Produce a complete technical and financial proposal
 
----
-
-## 🛠️ Technologies & Concepts
+## :hammer_and_wrench: Technologies & Concepts
 
 ### Networking
 
@@ -52,9 +48,7 @@ The project covered network architecture, segmentation, redundancy, wireless con
 - VoIP
 - SAN Storage
 
----
-
-## 🌐 Network Architecture
+## :gear: Network Architecture
 
 The proposed architecture includes:
 
@@ -69,9 +63,7 @@ The proposed architecture includes:
 - High-availability firewall cluster
 - Redundant uplinks and aggregation
 
----
-
-## 📦 Key Deliverables
+## :package: Key Deliverables
 
 - Enterprise network architecture
 - IP addressing plan
@@ -83,20 +75,16 @@ The proposed architecture includes:
 - Equipment sizing and selection
 - Budget estimation
 
----
+## :man_technologist: My Contributions
 
-## 👨‍💻 My Contributions
+- Client requirements analysis.
+- Network segmentation and IP addressing.
+- Security and firewall strategy.
+- Technology evaluation for switches, VoIP phones, and storage servers.
+- Project planning and resource estimation.
+- Reporting and challenge documentation.
+- Team collaboration within a 4-member project group.
 
-- Network architecture design
-- VLAN and addressing design
-- Security and firewall strategy
-- Infrastructure sizing
-- Technology evaluation
-- Technical documentation
-- Team collaboration
-
----
-
-## 📚 Documentation
+## :books: Documentation
 
 Detailed project deliverables and architecture diagrams are available in the `/docs` folder.
