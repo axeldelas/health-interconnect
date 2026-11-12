@@ -2,51 +2,36 @@
 
 ## :book: Overview
 
-Master's degree group project focused on the design of a complete network infrastructure for a multi-building hospital environment.
+Design of a resilient hospital network infrastructure supporting healthcare services through network segmentation, high availability, wireless connectivity, VoIP integration, security controls, and capacity planning across a multi-building environment.
 
-The project covered network architecture, segmentation, redundancy, wireless connectivity, VoIP integration, security design, capacity planning, and infrastructure budgeting.
+## :busts_in_silhouette: Contributors
 
-## :dart: Objectives
+This project was developed as part of a four-person team.
 
-- Design a scalable and resilient hospital network infrastructure
-- Ensure continuous service availability through redundancy mechanisms
-- Secure network communications through segmentation and firewalling
-- Support healthcare applications, VoIP, Wi-Fi, and storage services
-- Provide a future-proof architecture capable of supporting organizational growth
-- Produce a complete technical and financial proposal
+My contributions included:
 
-## :hammer_and_wrench: Technologies & Concepts
+- Client requirements analysis.
+- Network segmentation and IP addressing.
+- Security and firewall strategy.
+- Technology evaluation for switches, VoIP phones, and storage servers.
+- Project planning and resource estimation.
+- Reporting and challenge documentation.
+- Team collaboration within a 4-member project group.
 
-### Networking
+## :hammer_and_wrench: Skills Demonstrated
 
-- IPv4 Addressing
-- VLAN Segmentation
-- Inter-VLAN Routing
-- DHCP
-- DNS
-- NAT
-
-### High Availability
-
-- HSRP
-- LACP
-- Redundant Core Infrastructure
-- Firewall Failover
-
-### Security
-
+- Requirements Analysis
+- Network Architecture Design
+- IP Addressing Design
 - Network Segmentation
-- Access Control
-- Perimeter Security
-- Firewall Architecture
-
-### Infrastructure
-
-- Enterprise Switching
-- Enterprise Routing
-- Wi-Fi Architecture
-- VoIP
-- SAN Storage
+- High Availability Design
+- Security Architecture
+- Capacity Planning
+- Technology Evaluation
+- Infrastructure Planning
+- Project Planning & Resource Estimation
+- Technical Documentation
+- Team Collaboration
 
 ## :gear: Network Architecture
 
@@ -75,16 +60,6 @@ The proposed architecture includes:
 - Equipment sizing and selection
 - Budget estimation
 
-## :man_technologist: My Contributions
+## :raised_hands: Credits
 
-- Client requirements analysis.
-- Network segmentation and IP addressing.
-- Security and firewall strategy.
-- Technology evaluation for switches, VoIP phones, and storage servers.
-- Project planning and resource estimation.
-- Reporting and challenge documentation.
-- Team collaboration within a 4-member project group.
-
-## :books: Documentation
-
-Detailed project deliverables and architecture diagrams are available in the `/docs` folder.
+Thank you for checking out our project!
